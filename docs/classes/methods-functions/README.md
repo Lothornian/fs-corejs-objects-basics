@@ -15,5 +15,5 @@
   2. Add speed to the constructor.
   3. Set voice to `meow` in the super's constructor.
   4. Create a meow method that returns voice.
-4. Create and export out the variable named `Lassy` as an instance of Dog.
-5. Create and export out the variable named `GrummpyCat` as an instance of Cat.
+4. Create and export out the variable named `Lassy` as an instance of Dog with a speed of `10`.
+5. Create and export out the variable named `GrummpyCat` as an instance of Cat with a speed of `1`.
